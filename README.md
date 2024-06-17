@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarshraj02" alt="aadarshraj02" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular,NodeJS,ExpressJs,SpringBoot**
+- 🌱 I’m currently learning **React, Angular, NodeJS, ExpressJs, SpringBoot**
 
 - 📫 How to reach me **aadarshraazz007@gmail.com**
 
