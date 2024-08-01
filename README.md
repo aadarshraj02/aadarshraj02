@@ -44,3 +44,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=aadarshraj02&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarshraj02&theme=react-dark&area=true&hide_border=true)
+
+
+<h2 align="center">🐍 Snake Eating my Github Contribution 🐍</h2>
+<p align="center">
+ <img src="https://github.com/aadarshraj02/aadarshraj02/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
+</p>
