@@ -14,4 +14,4 @@ I am Adarsh <br>🔭 I’m currently Learning React and DSA<br>
 
 ---
 
-![GitHub Snake Animation](https://github.com/aadarshraj02/snk/blob/output/github-contribution-grid-snake.svg)
+
