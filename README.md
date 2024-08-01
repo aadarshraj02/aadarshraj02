@@ -1,5 +1,7 @@
 # 💫 About Me: 
-I am Adarsh <br>🔭 I’m currently Learning React and DSA<br>
+## 👋 Hello!
+I'm Adarsh, a passionate developer with a focus on React and DSA. Welcome to my GitHub profile!
+
 
 [![](https://visitcount.itsvg.in/api?id=aadarshraj02&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
