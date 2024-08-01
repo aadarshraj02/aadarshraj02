@@ -5,6 +5,8 @@
   🔍 Currently, I'm mastering React and Data Structures to build dynamic, logical, and responsive user interfaces. Next on my journey is exploring backend technologies to create robust server-side applications. After that, I'll be delving into React Native to craft seamless cross-platform mobile apps.
 </p>
 ## 💻 Skills & Tech Stack:
+
+
 **Frontend:** HTML, CSS, JavaScript, Typescript, React, Angular, Bootstrap, TailwindCSS, GSAP, Responive design, Animation <br/> <br/>
 
 
