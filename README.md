@@ -1,6 +1,14 @@
 # 💫 About Me: 
 ## 👋 Hello!
 I'm Adarsh, a passionate developer with a focus on React and DSA. Welcome to my GitHub profile!
+## 🛠️ Skills
+**Frontend:** HTML, CSS, JavaScript, React, Angular, Bootstrap, TailwindCSS
+**Backend:** Node.js, Express.js, Java, Spring
+**Databases:** MongoDB, MySQL, Firebase
+
+
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=aadarshraj02&icon=0&color=0)](https://visitcount.itsvg.in)
