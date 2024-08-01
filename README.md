@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>💫 About Me:</h1>
-  <img src="https://komarev.com/ghpvc/?username=aadarshraj02" alt="Profile Views" />
-</div>
+ <h1>💫 About Me:</h1>
 <p>
   👋 Hello! I'm Adarsh, a passionate developer diving deep into the world of web and mobile development.
   <br><br>
